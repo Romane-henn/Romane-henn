@@ -25,6 +25,30 @@ Mon objectif : travailler dans un métier créatif qui mêle **design**, **web**
   - le travail sur des projets multimédias  
   - la gestion de contenus et d’identité numérique  
 
+- Février 2025 – Mai 2025 : **Stage en Web Design & Communication**  
+  À l’association **Cité Mer** (Boulogne-sur-Mer)  
+  J’y réalise :  
+  - la mise à jour du site web  
+  - l’amélioration de l’expérience utilisateur (UX)  
+  - la création de supports visuels  
+  - le renforcement du référencement SEO  
+  - la valorisation des activités maritimes et sociales
+
+- Juillet 2024 : **Animatrice BAFA — Centre de loisirs d’Hesdigneul**  
+  Public : **enfants du primaire**  
+  J’y ai assuré :  
+  - l’encadrement des groupes  
+  - l’animation d’activités manuelles, sportives et ludiques  
+  - la gestion du quotidien et de la sécurité  
+  - l’accompagnement du vivre-ensemble et du respect des règles  
+
+- Juillet 2024 : **Animatrice BAFA — Wimereux**  
+  Public : **adolescents**  
+  J’y ai assuré :  
+  - l’organisation d’activités adaptées aux ados  
+  - l’animation de projets collectifs  
+  - l’accompagnement dans la prise d’initiatives  
+  - la gestion d’un groupe en autonomie et responsabilité
 ---
 
 ## 🛠️ Compétences
