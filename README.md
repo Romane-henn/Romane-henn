@@ -65,9 +65,6 @@ Mon objectif : travailler dans un métier créatif qui mêle **design**, **web**
 - Construire un portfolio professionnel unique et créatif
 
 ---
-| Nom | Âge | Ville |
-|-----|-----|--------|
-| Romane | 19 | Boulogne-sur-mer |
 
 <!--
 **Romane-henn/Romane-henn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
