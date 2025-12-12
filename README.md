@@ -25,6 +25,10 @@ Mon objectif : travailler dans un métier créatif qui mêle **design**, **web**
   - le travail sur des projets multimédias  
   - la gestion de contenus et d’identité numérique  
 
+---
+
+## 🎓 Mes expériences
+
 - Février 2025 – Mai 2025 : **Stage en Web Design & Communication**  
   À l’association **Cité Mer** (Boulogne-sur-Mer)  
   J’y réalise :  
