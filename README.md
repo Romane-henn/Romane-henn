@@ -5,7 +5,7 @@ Je m'appelle **Romane Hennnuyer**, j'ai 19 ans.
 Je suis étudiante en **DEUST WMI** (*Webmaster et Métiers de l’Internet*) à l’ULCO de Calais.
 
 Passionnée par le **graphisme**, la **communication** et le **web**, j’aime créer, imaginer et donner vie à des projets visuels.  
-Mon objectif : travailler dans un métier créatif qui mêle **design**, **web** et **communication digitale**.
+Mon objectif : travailler dans un métier créatif qui mêle **design**, **web** et **communication**.
 
 ---
 
